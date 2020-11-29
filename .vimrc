@@ -24,7 +24,7 @@ Plugin 'itchyny/lightline.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 Plugin 'frazrepo/vim-rainbow'
-Plugin 'Valloric/YouCompleteMe' 
+" " Plugin 'Valloric/YouCompleteMe' 
 Plugin 'preservim/nerdtree'
 
 set laststatus=2
