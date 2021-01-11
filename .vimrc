@@ -45,6 +45,7 @@ endif
 call vundle#end()            " required
 filetype plugin indent on    " required
 
+let g:rainbow_active = 1
 let g:solarized_bold = 0
 let g:solarized_contrast = "low"
 let g:solarized_termcolors = 256
